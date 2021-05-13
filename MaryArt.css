@@ -1,0 +1,74 @@
+@font-face{
+            font-family: "Cookie Regular";
+            src:         url("./Cookie-Regular.ttf");
+}
+
+
+body{
+      text-align:        center;
+      color:             #d49093;
+      background-color:  #fae3e4; /*pink*/
+      /*margin: 0px;*/
+}
+
+
+
+
+.container1 {
+     background-color:    #e8a2a6;
+}
+h1 {
+     font-family:        "Cookie Regular", sans-serif;
+     color:               white;
+
+
+}
+
+#pic1 {
+  display:                flex;
+  flex-direction:         row;
+  justify-content:        center;
+}
+
+p {
+    font-family:          Verdana, Ariel, sans-serif;
+    font-size:            14px;
+    color:                #d49093;
+}
+
+.container2 a {
+
+     text-decoration:      none;
+     color:                white;
+
+}
+
+button {
+         background-color: #e8a2a6;
+         border:           none;
+         color:            white;
+         padding:          10px;
+         text-align:       center;
+         text-decoration:  none;
+         display:          inline-block;
+         font-size:        16px;
+         margin:           1px 1px;
+}
+
+#aboutme {
+         background-color:  #e8a2a6;
+         border-width:      thick;
+         border-color:      white;
+         border-style:      solid;
+
+         padding:           0px 20px 0px 20px;
+
+         width:             200px;
+}
+
+#aboutme p {
+        color:              white;
+        padding:            0px 20px 0px 20px;
+
+
+}
